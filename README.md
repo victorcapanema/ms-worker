@@ -1,1 +1,1 @@
-# ms-worker
+# ms-course
